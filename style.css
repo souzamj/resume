@@ -1,0 +1,25 @@
+body {
+	background: beige;
+	padding-left: 100px;
+	font-family: 'helvetica';
+}
+
+
+
+h2 {
+	font-family: 'helvetica', serif;
+	padding-left: 200px;
+	color: slategrey;
+}
+p {
+	font-family: 'helvetica', serif;
+}
+
+li {
+	font-family: 'helvetica', sans-serif;
+
+}
+
+ul {
+	list-style-type: square;
+}
