@@ -23,3 +23,8 @@ li {
 ul {
 	list-style-type: square;
 }
+
+img {
+	height: 500px;
+	width: 500px;
+}
